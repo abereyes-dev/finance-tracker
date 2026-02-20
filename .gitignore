@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local data file (runtime output)
+expenses.csv
+
+# macOS system file
+.DS_Store
+
+#Virtual environments (for later if you add one)
+.venv/
+venv/
